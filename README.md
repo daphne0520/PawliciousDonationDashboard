@@ -33,3 +33,5 @@ Although Pawlicious is no longer operating following my graduation, its historic
 # Key Insights
 
 # Learning Outcome
+
+//This GitHub covers my BI/database projects. For my full analytics portfolio (SAS, Python optimization, simulation modelling), please refer to (https://enqi020520.wixsite.com/my-site-4).
