@@ -10,12 +10,12 @@ Although Pawlicious is no longer operating following my graduation, its historic
 
 # Objective
 1. Study, explore and strengthen my data processing and data visualizing skills.
-2. Cleaning and preparing donation data.
+2. Cleaning and preparing donation data by using 2 different initiatif, MYSQL and Excel
 3. Building an interactive Power BI dashboard.
 4. Identify donation patterns and key performance indicators.
 
 # Dataset
-1. Historical donation record.
+1. Historical and closed donation records collected by Pawlicious, including donation transactions, rescue activities, treatment categories, and expenditure records maintained in Microsoft Excel. 
 
 # Methodology
 1. Microsoft Excel (data storing and preprocessing)
