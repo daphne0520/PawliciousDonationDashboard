@@ -1,0 +1,14 @@
+Approach,Pros,Cons,Best For
+Excel to Clean in Excel to Power BI,"• No extra software needed
+• Everything stays in one familiar tool
+• Fastest for a single one off cleanup","• Hard to repeat next month without redoing work by hand
+• Difficult to audit what exactly changed vs original
+• Easy to accidentally overwrite or lose raw data
+• No real enforcement of data types","One time, small, non recurring cleanups"
+Excel to Clean in MySQL to Power BI,"• Raw data stays untouched in a staging table
+• Cleaning logic lives in reusable SQL scripts
+• Enforces real data types like DECIMAL and DATE
+• Good for joins, dedup, and combining multiple sheets
+• Scales well as data volume grows","• Requires installing and managing MySQL Server
+• More setup time and a learning curve for SQL
+• Overkill for a small one time cleanup","Recurring imports, larger volume, multiple tools using same clean data"
