@@ -21,6 +21,7 @@ Although Pawlicious is no longer operating following my graduation, its historic
 1. Microsoft Excel (data storing and preprocessing)
 2. My SQL (data extraction, transformation and data cleaning)
 3. Power BI (data visualization and dashboard development)
+4. Python (anonymized donors' privacy by hashing the names and remove emails and phone numbers)
 
 # Dashboard KPIs
 - Total Donations
