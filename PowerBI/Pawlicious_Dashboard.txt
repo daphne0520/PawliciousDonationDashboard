@@ -1,0 +1,25 @@
+{
+  "name": "Paw Print Pink-Brown",
+  "dataColors": [
+    "#8B6F47",
+    "#C9789F",
+    "#A67C52",
+    "#E4A0C4",
+    "#7A5C38",
+    "#D9A5BE",
+    "#6B5636",
+    "#F0C6DC",
+    "#9C7A54",
+    "#D68CAE"
+  ],
+  "background": "#FDF6FA",
+  "foreground": "#4A3B28",
+  "tableAccent": "#8B6F47",
+  "good": "#8B6F47",
+  "neutral": "#A67C52",
+  "bad": "#B05C7A",
+  "maximum": "#6B5636",
+  "center": "#C9789F",
+  "minimum": "#F0C6DC",
+  "null": "#CCCCCC"
+}
