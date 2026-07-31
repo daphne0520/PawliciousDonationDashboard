@@ -24,15 +24,39 @@ Although Pawlicious is no longer operating following my graduation, its historic
 4. Python (anonymized donors' privacy by hashing the names and remove emails and phone numbers)
 
 # Dashboard KPIs
-- Total Donations
-- Total Donors
-- Average Donation Amount
-- Donation Expenditure Trend
-- Number of Dogs Rescued
-- Treatment Categories
+❤️ Total Donations
+💰 Total Expenses
+🐶 Animals Supported
+🧾 Expense Records
+
+# Dashboard Features 
+-Animal Filter
+
+-Expense Category Analysis
+
+-Donation Summary
+
+-Expense Monitoring
+
+-Interactive Slicer
+
+-Dynamic KPI Cards
 
 # Key Insights
+1. Riley accounted for the highest share of total expenses.
+2. Food & Snack and Treatment were the largest spending categories.
+3. Shared Care expenses were mainly concentrated in treatment and food support.
+4. The dashboard enables stakeholders to monitor donations and spending by rescued animal.
 
 # Learning Outcome
+-Performed data cleaning and preprocessing using Excel for manual validation and MySQL for query-based transformation.
 
-//This GitHub covers my BI/database projects. For my full analytics portfolio (SAS, Python optimization, simulation modelling), please refer to (https://enqi020520.wixsite.com/my-site-4).
+-Integrated cleaned datasets into Power BI for interactive reporting and visualization.
+
+-Created DAX measures to summarize financial and operational KPIs.
+
+-Implemented interactive filtering to analyze expenses by supported animal and spending category.
+
+-Strengthened practical skills in data preparation, data modeling, dashboard development, and business-oriented visualization.
+
+*NOTES**This GitHub covers my BI/database projects. For my full analytics portfolio (SAS, Python optimization, simulation modelling), please refer to (https://enqi020520.wixsite.com/my-site-4).
