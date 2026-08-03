@@ -59,4 +59,4 @@ Although Pawlicious is no longer operating following my graduation, its historic
 
 -Strengthened practical skills in data preparation, data modeling, dashboard development, and business-oriented visualization.
 
-*NOTES**This GitHub covers my BI/database projects. For my full analytics portfolio (SAS, Python optimization, simulation modelling), please refer to (https://enqi020520.wixsite.com/my-site-4).
+*NOTES**This GitHub covers my self development projects. For my full analytics academic portfolio (SAS, Python optimization, simulation modelling), please refer to (https://enqi020520.wixsite.com/my-site-4).
